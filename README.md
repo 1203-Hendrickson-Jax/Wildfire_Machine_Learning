@@ -14,7 +14,7 @@ The project includes:
 - `GUI_labeler.py` — Tkinter-based frame labeling tool
 - `dataset_creator.py` / `wildfire_smoke_dataset.py` — TensorFlow dataset builder logic
 - `TestingWFDataset.py` — dataset validation, preprocessing, and visualization
-- `CS431 Wildfire Dataset Report.pdf` — full written report
+- `Wildfire Dataset Report.pdf` — full written report
 - sample output charts and example images
 
 ## Important Note
