@@ -100,5 +100,5 @@ Computer Science & Engineering
 
 ## Additional Documentation
 For more detail, see:
-- `CS431 Wildfire Dataset Report.pdf`
+- `Wildfire Dataset Report.pdf`
 - supporting presentation materials and sample outputs included in the repository
